@@ -16,7 +16,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-### Things I like about CS 193
+***Things I like about CS 193***
 - Remote access into Purdue computers, ssh command
 - Learning about ph cmd (may have become my addiction)
 - Student led-classes
