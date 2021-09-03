@@ -16,9 +16,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
+### Things I like about CS 193
+- Remote access into Purdue computers, ssh command
+- Learning about ph cmd (may have become my addiction)
+- Student led-classes
 
 1. Numbered
 2. List
